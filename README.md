@@ -19,7 +19,7 @@ RecruiterPage - /api/test/recruiter
 ## Setup
 
 ```python
-cd NodeJS---RoleBasedAcces---Job-Site
+cd NodeJS-JWT-RBA-JobSite
 npm install
 node server.js
 ```

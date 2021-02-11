@@ -23,3 +23,7 @@ cd NodeJS-JWT-RBA-JobSite
 npm install
 node server.js
 ```
+Incase if the DB showed database not exist. Create a DATABASE with this name in MySQL terminal
+```
+CREATE DATABASE myapi;
+```

@@ -1,0 +1,11 @@
+2021-02-12 01:40:42 INFO  Subcription:  Success New User Registration: MrVig as user roles 
+2021-02-12 01:41:22 WARN  Error creating new user:  MrVig  Username already in use 
+2021-02-12 01:41:56 WARN  Error creating new user:  MrNewGuy  email already in use 
+2021-02-12 01:42:28 INFO  Subcription:  Success New User Registration: MrNewGuy as seeker roles 
+2021-02-12 01:43:11 INFO  Login:  Success! Signed in for: MrNewGuy as: ROLE_SEEKER 
+2021-02-12 01:44:03 INFO  Page_Access: MrNewGuy accessed Seekers page  
+2021-02-12 01:44:53 WARN  Page_Access: MrNewGuy tried to access Recruiters page without Recruiters role. User_role: ROLE_SEEKER 
+2021-02-12 01:45:42 WARN  Page_Access:  Unauthorised attempt to access internal secured page 
+2021-02-12 01:48:00 INFO  Subcription:  Success New User Registration: MrRecruiter as recruiter roles 
+2021-02-12 01:48:42 INFO  Login:  Success! Signed in for: MrRecruiter as: ROLE_RECRUITER 
+2021-02-12 01:49:18 INFO  Page_Access: MrRecruiter Accessed Recruiter page  
